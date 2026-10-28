@@ -1,0 +1,7 @@
+#ignora configurações locais do vs code
+.vscode/
+*.code-workspace
+
+#Ignora temp do Sistema Operacional
+.DS_Store
+Thumbs.db
